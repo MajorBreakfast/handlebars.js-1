@@ -58,5 +58,11 @@
   },
   "scripts": {
     "test": "grunt"
+  },
+  "jspm": {
+    "main": "handlebars",
+    "dependencies": {},
+    "directories": { "lib": "lib" },
+    "buildConfig": { "minify": true }
   }
 }
