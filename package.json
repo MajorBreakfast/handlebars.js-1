@@ -61,7 +61,6 @@
   },
   "jspm": {
     "main": "handlebars",
-    "directories": { "lib": "lib" },
-    "buildConfig": { "minify": true }
+    "directories": { "lib": "lib" }
   }
 }
